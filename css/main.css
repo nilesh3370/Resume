@@ -241,14 +241,14 @@ body {
 }
 
 a {
-  color: red;
+  color: grey;
 }
 a:hover {
   color: #e60000;
 }
 
 header {
-  background-color: red;
+  background-color: grey;
   padding-top: 2em;
   padding-bottom: 2em;
   margin-bottom: 2em;
